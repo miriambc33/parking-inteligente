@@ -35,7 +35,7 @@ parking-inteligente/
 ├── entradas.txt         # Matrículas y horas de entrada
 ├── salidas.txt          # Registro de salidas y precios
 ├── main.py              # Código principal
-└── README.md            # Este archivo
+└── README.md           
 ```
 
 ---
@@ -108,13 +108,5 @@ python main.py
 
 ## 🧠 Autoría
 
-Proyecto desarrollado por **Miriam** como parte de la **Práctica 5 – Programación de Inteligencia Artificial** (2024/25).
+Proyecto desarrollado por **Miriam** como parte de la **Práctica – Programación de Inteligencia Artificial**.
 
----
-
-## 🌐 Recursos relacionados
-
-> ¿Quieres aprender más sobre IA, visión artificial o proyectos con Python y Azure?  
-Visita 👉 [https://gptonline.ai/es/](https://gptonline.ai/es/) para más ejemplos y tutoriales en español.
-
----
