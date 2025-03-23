@@ -33,3 +33,4 @@ El sistema automatiza el control de **entradas y salidas de vehículos** en un a
 ```bash
 pip install azure-cognitiveservices-vision-computervision
 
+**python app.py**
