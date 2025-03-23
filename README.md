@@ -26,4 +26,10 @@ El sistema automatiza el control de **entradas y salidas de vehículos** en un a
 
 ---
 
+## ▶️ ¿Cómo ejecutar el proyecto?
+
+### 1. Instalar dependencias
+
+```bash
+pip install azure-cognitiveservices-vision-computervision
 
