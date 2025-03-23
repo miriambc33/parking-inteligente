@@ -6,8 +6,8 @@ from azure.cognitiveservices.vision.computervision.models import OperationStatus
 from msrest.authentication import CognitiveServicesCredentials
 
 # Clave y endpoint de Azure
-AZURE_KEY = "CwmlTZ0fkq34inleOOrBif7ATNdvrpmiEX5wIFJbz2tLw9vQeuEVJQQJ99BBAC5RqLJXJ3w3AAAFACOG6TCY"
-AZURE_ENDPOINT = "https://pruebavision33.cognitiveservices.azure.com/"
+AZURE_KEY = "TU_CLAVE"
+AZURE_ENDPOINT = "URL-ENDPOINT"
 
 computervision_client = ComputerVisionClient(AZURE_ENDPOINT, CognitiveServicesCredentials(AZURE_KEY))
 
